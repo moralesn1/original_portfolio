@@ -4,43 +4,10 @@ body {
     background-color: rgb(0, 0, 0);
     /* background-color: white; */
     margin: 0 auto;
-    padding-left: 50px;
-    padding-right: 50px;
+    /* margin-left: 50px;
+    margin-right: 50px; */
 }
 
-
-img {
-    margin: 0 auto;
-    height: 30px;
-    width: 30px;
-    background-color: rgb(255, 255, 255);
-    align-content: center;
-}
-
-nav {
-    color: rgb(0, 0, 0);
-    margin: 0 auto;
-    text-align: center;
-    padding-top: 10px;
-}
-
-nav a {
-    color: rgb(255, 255, 255);
-    font-family: 'Roboto', sans-serif;
-}
-footer {
-    background-color: black;
-    text-align: center;
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-.socialmedia {
-    display: inline-block;
-    width: 100%;
-}
-.linkedin img {
-    background-color: black;
-}
 h1 {
     color: rgb(255, 255, 255);
     text-align: center;
@@ -52,4 +19,116 @@ p {
     text-align: center;
     /* color: black; */
     font-family: 'Raleway', sans-serif;
+}
+
+h3 { 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+footer {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 35px;
+    padding-bottom: 30px;
+    position: absolute;
+    align-content: center;
+    width: 100%;
+    border-top: 2px rgb(255, 255, 255) solid;
+}
+
+footer img {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+nav a {
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    padding: 0px 10px 0px 10px;
+}
+
+.container {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+img {
+    margin: 0 auto;
+    height: 30px;
+    width: 30px;
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+}
+
+#project {
+    height: 500px;
+    margin-top: 400px;
+    padding-top: 100px;
+}
+
+#history {
+    height: 500px;
+    margin-top: 400px;
+    padding-top: 100px;
+    
+}
+
+.section {
+    height: 500px;
+}
+.projectimg img{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    /* background-image: url("websitepictures/githubicon.png"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    /* height: 400px;
+    width: 100%; */
+}
+
+#contact {
+    height: 500px;
+    margin-top: 400px;
+    padding-top: 100px;
+}
+
+#portraitimage {
+    background-image: url("websitepictures/pixil-frame-0.png");
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100px;
+    margin: 0 auto;
+    padding-top: 100px;
+    z-index: -1;
+
+}
+#index {
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 350px;
+    margin-top: 100px;
+}
+.navcontainer {
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    position: fixed;
+    padding-top: 15px;
+    top: 0;
+}
+
+.title {
+    padding-top: 10px;
+}
+
+
+.socialmedia {
+    display: inline-block;
+    width: 100%;
+}
+.linkedin img {
+    background-color: black;
 }
