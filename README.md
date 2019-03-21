@@ -4,6 +4,16 @@
 
 **<h2>Github</h2>**
 
+<h2>Contents<h2>
+1. About this Profile
+
+2. Design Process
+
+3. Planning Process
+
+4. Q & A
+
+
 https://github.com/moralesn1/webportfolio
 
 **<h2>About this Profile<h2>**
@@ -75,14 +85,14 @@ Aww yeee
 ;)
 <img src="Website/ProjectDevelopments/Trello5.png">
 
-<h2>Q&A<h2>
+**<h2>Q&A<h2>**
 
 
-Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
 
 
-Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
 
-Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
 

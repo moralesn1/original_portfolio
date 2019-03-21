@@ -54,8 +54,12 @@ table {
     color: white;
     text-align: center;
     font-family: 'Roboto', sans-serif;
-    display: flex;
-    justify-content: space-around;
+    border-collapse: collapse; 
+    border-color: white;
+}
+
+table, th, tr, td {
+    border: 1px rgb(255, 255, 255) solid;
 }
 nav a {
     color: rgb(255, 255, 255);
@@ -137,7 +141,9 @@ img {
     padding-right: 40px;
 
 }
-
+#history p {
+    padding-top: 50px;
+}
 
 .projectimg img{
     background-color: black;
@@ -299,6 +305,10 @@ img {
     footer a:hover {
         transform: scale(2.0);
         transition: 0.5s ease-out;
+    }
+
+    table {
+        border-collapse: collapse;
     }
 
 }
