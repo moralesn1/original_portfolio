@@ -39,7 +39,7 @@ For this online portfolio project, I used HTML and CSS.
 For usability considerations, I made sure to give my non text links the ability to say what they are and where they lead to for everyone, particularly to those who are vision impaired.
 
 
-<h2>details of planning process<h2>
+<h2>Details of planning process<h2>
 <h3>Project Plan and Timeline<h3>
 <h3>Screenshots of Trello Board<h3>
 
