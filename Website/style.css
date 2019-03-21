@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway|Roboto');
 
+html {
+    scroll-behavior: smooth;
+}
+
+
 body {
     background-color: rgb(0, 0, 0);
     /* background-color: white; */
@@ -20,11 +25,18 @@ p {
     /* color: black; */
     font-family: 'Raleway', sans-serif;
 }
+h2 { 
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
 
 h3 { 
     color: rgb(255, 255, 255);
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    width: 100%;
 }
 
 footer {
@@ -36,47 +48,92 @@ footer {
     align-content: center;
     width: 100%;
     border-top: 2px rgb(255, 255, 255) solid;
+
 }
 
 footer img {
     display: inline-block;
     margin: 0 auto;
+    transition: 0.5s ease-out;
 }
 
 nav a {
     color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
     padding: 0px 10px 0px 10px;
+    transition: 0.5s ease-out;
 }
-
+.contact1 {
+    padding-top: 100px;
+}
 .container {
+    display: flex;
+    justify-content: space-around;
+    height: 400px;
     margin-right: 40px;
     margin-left: 40px;
+    width: 100%;
+    margin: 0 auto;
+    align-content: center;
+
+}
+/* .textcontainer {
+
+} */
+
+.section a {
+    margin: 0 auto;
+}
+
+.section {
+    background-color: black;
 }
 img {
     margin: 0 auto;
     height: 30px;
     width: 30px;
     background-color: rgb(255, 255, 255);
-    align-content: center;
+    justify-content: center;
 }
 
 #project {
-    height: 500px;
-    margin-top: 400px;
+    height: auto;
+    margin-top: 100px;
     padding-top: 100px;
+    color: rgb(255, 255, 255);
+    margin-left: 40px;
+    margin-right: 40px;
+    /* padding-bottom: 600px; */
 }
 
-#history {
-    height: 500px;
-    margin-top: 400px;
-    padding-top: 100px;
+.projectcontainer {
+
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
     
 }
 
-.section {
-    height: 500px;
+#project img {
+    height: 300px;
+    width: 300px;
+    margin-top: 50px;
+
 }
+#history {
+    height: 500px;
+    margin-top: 200px;
+    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+
+}
+
+
 .projectimg img{
     background-color: black;
     display: flex;
@@ -91,8 +148,20 @@ img {
 #contact {
     height: 500px;
     margin-top: 400px;
-    padding-top: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
 }
+
+#contact h3 {
+    width: 100%;
+    padding-bottom: 100px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
 
 #portraitimage {
     background-image: url("websitepictures/pixil-frame-0.png");
@@ -106,9 +175,9 @@ img {
 
 }
 #index {
-    margin-right: 40px;
-    margin-left: 40px;
-    padding-bottom: 350px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 250px;
     margin-top: 100px;
 }
 .navcontainer {
@@ -131,4 +200,118 @@ img {
 }
 .linkedin img {
     background-color: black;
+}
+
+/* @media screen and (max-width:500px ) {
+    #contact,#index,#history {
+    padding-left: 100px;
+    padding-right: 100px;
+    }
+     */
+
+
+@media screen and (min-width: 500px) {
+    #index, #history, #projects, #contact {
+        font-size: 18px;
+        padding-left: 80px;
+        padding-right: 80px;
+        margin-top: 200px;
+
+    }
+    h1 {
+        font-size: 30px;
+    }
+  }
+@media screen and (min-width: 900px) {
+    #index {
+        padding-left: 250px;
+        padding-right: 250px;
+        height: 300px;
+        margin-top: 100px;
+    }
+    #contact {
+        padding-left: 250px;
+        padding-right: 250px;
+        height: auto;
+        margin-top: 300px;
+        /* padding-top: 200px; */
+        margin-bottom: 150px;
+    }
+    #history {
+        padding-left: 250px;
+        padding-right: 250px;
+        height: 300px;
+        /* margin-top: 300px;
+        padding-top: 400px; */
+    }
+
+    #project {
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .intro {
+        margin-top: 0px;
+        margin-bottom: 100px;
+        height: 500px;
+    }
+    .section {
+        padding-bottom: 100px;
+    }
+
+    .section1p {
+        padding-left: 200px;
+        padding-right: 200px;
+    }
+    /* #contact {
+        padding-bottom: 50px;
+        padding-top: 200px;
+        margin-top: 200px;
+        margin-bottom: 150px;
+    } */
+
+    h1 {
+        font-size: 40px;
+        padding-bottom: 50px;
+    }
+
+    h2 {
+        font-size: 40px;
+        padding-bottom: 30px;
+    }
+
+    h3 {
+        padding-bottom: 50px;
+        font-size: 30px;
+    }
+
+    #contact h3 {
+        padding-bottom: 50px;
+    }
+
+    /* #project {
+        padding-bottom: 650px;
+        padding-top: 100px;
+    } */
+    #project img {
+        height: 400px;
+        width: 400px;
+        margin-top: 50px;
+        transition: 0.7s ease-out;
+    }
+    #project img:hover {
+        transform: scale(1.5);
+        transition: 0.7s ease-out;
+
+    }
+
+    nav a:hover {
+        font-size: 30px;
+        transition: 0.5s ease-out;
+    }
+    footer a:hover {
+        transform: scale(2.0);
+        transition: 0.5s ease-out;
+    }
+
 }
