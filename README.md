@@ -3,6 +3,7 @@
 
 
 **<h2>Github</h2>**
+https://github.com/moralesn1/webportfolio
 
 <h2>Contents<h2>
 1. About this Profile
@@ -14,7 +15,6 @@
 4. Q & A
 
 
-https://github.com/moralesn1/webportfolio
 
 **<h2>About this Profile<h2>**
 <h3>Purpose<h3>
