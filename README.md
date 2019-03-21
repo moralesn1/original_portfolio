@@ -42,4 +42,5 @@ For usability considerations, I made sure to give my non text links the ability 
 **<h2>Details of planning process<h2>**
 <h3>Project Plan and Timeline<h3>
 <h3>Screenshots of Trello Board<h3>
+  ![](images/Project%20Developments/Screen%20Shot%202019-03-18%20at%203.40.48%20pm.png)
 
