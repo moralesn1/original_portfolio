@@ -63,9 +63,12 @@ table, th, tr, td {
 }
 nav a {
     color: rgb(255, 255, 255);
+    font-size: 20px;
     font-family: 'Roboto', sans-serif;
     padding: 0px 10px 0px 10px;
     transition: 0.5s ease-out;
+    text-decoration: none;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 .contact1 {
     padding-top: 100px;
@@ -172,11 +175,11 @@ img {
 
 
 #portraitimage {
-    background-image: url("websitepictures/pixil-frame-0.png");
+    background-image: url("websitepictures/profilepic3.png");
     position: relative;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100px;
+    height: 200px;
     margin: 0 auto;
     padding-top: 100px;
     z-index: -1;
@@ -193,12 +196,11 @@ img {
     height: 30px;
     text-align: center;
     position: fixed;
-    padding-top: 15px;
+    padding-top: 30px;
     top: 0;
 }
 
 .title {
-    padding-top: 10px;
 }
 
 
@@ -209,7 +211,27 @@ img {
 .linkedin img {
     background-color: black;
 }
+/* @media screen and (min-width: 300px) {
+    #index, #history, #projects, #contact {
+        font-size: 18px;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-top: 200px;
 
+    }
+    h1 {
+        font-size: 30px;
+    }
+  } */
+
+@media screen and (min-width: 360px) {
+  #index {
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  #portraitimage {
+      height: 200px;
+  }
 
 @media screen and (min-width: 500px) {
     #index, #history, #projects, #contact {
