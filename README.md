@@ -32,10 +32,10 @@ Going with the design, I made sure to keep the features inline with my design so
 
 **<h3>Screenshots<h3>**
 Desktop Version
-<img src="Website/ProjectDevelopments/Desktoppic.png">
+<img src="ProjectDevelopments/Desktoppic.png">
 
 Phone Version
-<img src="Website/ProjectDevelopments/phonepiccomp.png">
+<img src="ProjectDevelopments/phonepiccomp.png">
 
 **<h3>Site Maps<h3>**
 
@@ -50,13 +50,13 @@ For this online portfolio project, I used HTML and CSS.
 <h3>WireFraming<h3>
 
 Desktop Idea
-<img src="Website/ProjectDevelopments/Desktopwireframe.png">
+<img src="ProjectDevelopments/Desktopwireframe.png">
 
 Phone Idea
-<img src="Website/ProjectDevelopments/phonewireframe.png">
+<img src="ProjectDevelopments/phonewireframe.png">
 
 Mobile Development 
-<img src="Website/ProjectDevelopments/phonepic.png">
+<img src="ProjectDevelopments/phonepic.png">
 <h3>Personal Logo<h3>
 **<h3>Usability Considerations<h3>**
 
@@ -71,19 +71,19 @@ For usability considerations, I made sure to give my non text links the ability 
 My Plan to finish the core website for mobile and Desktop Development was set on Friday, two days after, to give myself a day and a half finalising the finer details of the site in terms of CSS.
 
 The Beginning 
-<img src="Website/ProjectDevelopments/Trello1.png">
+<img src="ProjectDevelopments/Trello1.png">
 
 One thing ticked off already!
-<img src="Website/ProjectDevelopments/Trello2.png">
+<img src="ProjectDevelopments/Trello2.png">
 
 Eep.
-<img src="Website/ProjectDevelopments/Trello3.png">
+<img src="ProjectDevelopments/Trello3.png">
 
 Aww yeee
-<img src="Website/ProjectDevelopments/Trello4.png">
+<img src="ProjectDevelopments/Trello4.png">
 
 ;)
-<img src="Website/ProjectDevelopments/Trello5.png">
+<img src="ProjectDevelopments/Trello5.png">
 
 **<h2>Q&A<h2>**
 
