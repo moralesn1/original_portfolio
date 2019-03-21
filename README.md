@@ -1,6 +1,6 @@
 
 <h1>Welcome to the Development Process of my Website<h1>
-
+<img src="/ProjectDevelopments.">
 
 **<h2>Github</h2>**
 

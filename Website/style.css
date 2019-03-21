@@ -50,7 +50,13 @@ footer img {
     margin: 0 auto;
     transition: 0.5s ease-out;
 }
-
+table { 
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
 nav a {
     color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
@@ -252,6 +258,7 @@ img {
     .section1p {
         padding-left: 200px;
         padding-right: 200px;
+
     }
 
     h1 {
