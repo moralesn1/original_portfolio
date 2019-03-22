@@ -37,6 +37,13 @@ Desktop Version
 Phone Version
 <img src="ProjectDevelopments/phonepiccomp.png">
 
+Full Desktop Version
+<img src="ProjectDevelopments/websitefull.png">
+
+Full Phone Version
+<img src="ProjectDevelopments/phonevfull.png">
+
+
 **<h3>Site Maps<h3>**
 
 **<h3>Target Audience<h3>**
