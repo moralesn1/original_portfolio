@@ -48,6 +48,8 @@ Full Phone Version
 
 
 **<h3>Site Maps<h3>**
+Site Map for the Website currently.
+<img src="ProjectDevelopments/SiteMap.png">
 
 **<h3>Target Audience<h3>**
 
