@@ -88,11 +88,24 @@ Aww yeee
 **<h2>Q&A<h2>**
 
 
-1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+**<h2>1. Describe key events in the development of the internet from the 1980s to today (max. 150 words)<h2>**
+
+<h4>Key events in the development of the internet from 1980s include items such as being able to access the internet from computers connected by cables which later evolved to being able to access the internet through wireless technologies, not limited to the computer anymore but to other new devices.
+
+Other aspects of developments of the internet have also directly influenced the advancement of web softwares in which we use in our daily lives such as the ability to network and share our ideas, thoughts and likes in the blink of an eye. Technologies such as Facebook and youtube are examples of this.<h4>
 
 
-2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
 
+**<h2>2. Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)</h2>**
 
-3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+<h4>Domains are essentially a string of characters. The DNS (Domain name system) converts this string to an IP address to provide the required webpage.
+
+Web servers on the other hand consist of all the data on the internet. It is a system that creates and provides webpages for people to search. 
+
+A web browser is computing software which helps in searching for information, pinpointing its exact location and displaying the webpage back to the user.<h4>
+
+**<h2>3. Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)</h2>**
+
+<h4>With the increasing development of internet technologies, life has become increasingly more efficient and easier to navigate around.
+From being able to shop from the comfort of your own home to connecting to people around the world via video feeds. It has brought people around the world closer together than previously before while maintaining ease and comfort.</h4>
 
