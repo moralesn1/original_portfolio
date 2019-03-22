@@ -91,6 +91,7 @@ nav a {
     width: 100%;
     display: flex;
     justify-content: space-around;
+    
 }
 
 
@@ -189,7 +190,12 @@ img {
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 100px;
-    margin-top: 100px;
+    margin-top: 90px;
+}
+
+.navbar {
+    display:flex;
+    justify-content: space-around;
 }
 .navcontainer {
     width: 100%;
@@ -198,6 +204,9 @@ img {
     position: fixed;
     padding-top: 30px;
     top: 0;
+    padding-bottom: 30px;
+    background-color: rgba(0, 0, 0, 0.418);
+    border-bottom: 1px rgb(255, 255, 255) solid;
 }
 
 .title {
