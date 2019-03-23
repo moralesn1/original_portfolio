@@ -141,16 +141,22 @@ img {
 
 }
 #history {
-    height: 500px;
+    height: auto;
     margin-top: 200px;
     padding-top: 100px;
     padding-left: 40px;
     padding-right: 40px;
 
 }
-#history p {
-    padding-top: 50px;
+
+#history h3 {
+    padding-top: 20px;
 }
+#history p {
+    padding-top: 20px;
+}
+
+
 
 .projectimg img{
     background-color: black;
